@@ -33,5 +33,9 @@ Temporary Items
 .apdisk
 
 
+# Local Environments
+.env
+
+
 # Node Modules
 node_modules
